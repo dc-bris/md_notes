@@ -3,4 +3,3 @@ This is a collection of my notes created in [Obsidian](https://obsidian.md/), bu
 ## Contents
 - [Topic Overview](Topic%20Overview.md)
 - [My Topics](My%20Topics.md)
-- 

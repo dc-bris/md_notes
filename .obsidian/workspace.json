@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPS (SatNav).md",
+                "file": "Impact on space exploration & communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPS (SatNav).md",
+                "file": "Impact on space exploration & communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPS (SatNav).md",
+                "file": "Impact on space exploration & communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPS (SatNav).md"
+                "file": "Impact on space exploration & communication.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "a3eb5ba8c9e3f7e2",
   "lastOpenFiles": [
-    "GPS and reliance on accurate time measurements.md",
-    "GPS (SatNav).md",
     "My Topics.md",
-    "Topic Overview.md",
+    "Impact on space exploration & communication.md",
     "README.md",
+    "Topic Overview.md",
+    "GPS (Satnav).md",
+    "GPS and reliance on accurate time measurements.md",
     "Topic.md",
     "2.png",
     "Pasted image 20240214145135.png"
