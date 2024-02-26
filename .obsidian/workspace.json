@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "d67bb1fca7188f2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a60b24c9411c3d4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6123cff382b39797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic Description.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9842ebd29e08b0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b295d7dc13a65487",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f0f8e10c65cf0a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16599a0a8502d593",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "090bdc6dfe9b49a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "422e321f453dfbdf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ecd893b95e26a35d",
+    "type": "split",
+    "children": [
+      {
+        "id": "428b4d322d303c0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b38e8d8b57c6ee9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My Topics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfc6013b193f4052",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My Topics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4432ef4652157df9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5949a9be39ca74e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My Topics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9842ebd29e08b0ff",
+  "lastOpenFiles": [
+    "README.md",
+    "Topic Description.md",
+    "My Topics.md",
+    "GPS.md",
+    "2.png",
+    "Pasted image 20240214145135.png"
+  ]
+}
