@@ -1,9 +1,9 @@
 My section is on the following topics:
 
-- Applications of precise timekeeping - Daniel
+- Applications of precise timekeeping
 	- Global navigation and satellite systems
-i.	GPS and reliance on accurate time measurements
-ii.	Impact on space exploration & communication
-b.	Scientific research and experiments
-i.	Role of precise timekeeping in particle physics
-ii.	Applications in astronomy and cosmology
+		- [GPS and reliance on accurate time measurements](GPS%20(SatNav).md)
+		- Impact on space exploration & communication
+	- Scientific research and experiments
+		- Role of precise timekeeping in particle physics
+		- Applications in astronomy and cosmology
