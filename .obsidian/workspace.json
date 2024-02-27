@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "852a42cffd3c514f",
+        "id": "eb0b4d0bd1a28abf",
         "type": "tabs",
         "children": [
           {
-            "id": "a3eb5ba8c9e3f7e2",
+            "id": "3f7110d4744ced96",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3eb5ba8c9e3f7e2",
+  "active": "3f7110d4744ced96",
   "lastOpenFiles": [
     "My Topics.md",
     "Impact on space exploration & communication.md",
+    "GPS (Satnav).md",
+    "Impact on space exploration %26 communication.md",
     "README.md",
     "Topic Overview.md",
-    "GPS (Satnav).md",
     "GPS and reliance on accurate time measurements.md",
     "Topic.md",
     "2.png",

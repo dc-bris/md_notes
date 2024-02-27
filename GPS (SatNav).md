@@ -8,7 +8,7 @@
 
 Satnav relies on accurate measurements of time of flight (ToF) from several different satellites. This is achieved by sending the time of transmission (ToT) and position data for the satellite which is detected by the ground receiver. To get an accurate ToF this means a very accurate synchronisation between the receiver and satellite, which would require another atomic clock to get the nanosecond scale accuracy required.
 
-Instead multiple satellites are used to measure the ToF which can be used to determine accurately the position of the receiver. This 
+Instead multiple satellites are used to measure the ToF which can be used to determine accurately the position of the receiver. The timing and position data of GPS satellites is updated twice daily to account for changes in orbital parameters and clock drift.
 
 
 Extra notes:
