@@ -7,3 +7,7 @@ My section is on the following topics:
 	- Scientific research and experiments
 		- Role of precise timekeeping in particle physics
 		- Applications in astronomy and cosmology
+
+
+In addition I have researched the following:
+- [Frequency Comb](Frequency%20Comb.md)
